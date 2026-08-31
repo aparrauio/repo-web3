@@ -1,0 +1,10 @@
+{
+  "name": "fabrica-pociones-magicas",
+  "version": "1.0.0",
+  "description": "Actividad de repaso: closures, HOF, destructuring, modulos ES, promesas y async/await",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}

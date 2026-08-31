@@ -1,0 +1,10 @@
+{
+  "name": "generador-narrativo-no-bloqueante",
+  "version": "1.0.0",
+  "description": "Generador narrativo no bloqueante usando promesas y async/await",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
