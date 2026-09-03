@@ -1,0 +1,12 @@
+{
+  "name": "revision-proyecto1-ts",
+  "version": "1.0.0",
+  "description": "Migracion a TypeScript de la version de referencia del Proyecto 1",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc && node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}

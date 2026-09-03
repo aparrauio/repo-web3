@@ -1,0 +1,9 @@
+{
+  "name": "revision-proyecto1-js",
+  "version": "1.0.0",
+  "description": "Version JavaScript de referencia para el Proyecto 1 (personajes Mortal Kombat)",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "estructuras-reales-ts",
+  "version": "1.0.0",
+  "description": "Practica de generics, utility types, uniones discriminadas y enums (Semana 3 Clase 1)",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc && node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
